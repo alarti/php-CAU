@@ -1,0 +1,61 @@
+td{
+    overflow: hidden;
+    max-width: 100px;
+}
+
+.Estilo {
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	background-color: #FFFFFF;
+	text-align: center;
+}
+.Error {
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #CC0000;
+	background-color: #FFFFFF;
+    border-bottom-style: dashed;
+    border-top-style: dashed;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+    border-top-width: 1px;
+    border-right-color: #990033;
+    border-left-color: #990033;
+    border-bottom-color: #990033;
+    border-top-color: #990033;
+    padding-right: 4px;
+    padding-left: 4px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    background-position: left;
+}
+.Titulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	color: #5A7AAF;
+	/*color: #FF6600;*/
+	background-color: #ffffff;
+	border-right-style: ridge;
+	border-left-style: ridge;
+	border-bottom-style: ridge;
+	border-top-style: ridge;
+	padding-right: 6px;
+	padding-left: 6px;
+	padding-bottom: 6px;
+	padding-top: 6px;
+	position: relative;
+	text-align: center;
+}
